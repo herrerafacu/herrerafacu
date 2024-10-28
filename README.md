@@ -49,10 +49,10 @@
 
 ## 😎 Connect with me
 <p align="left">
-  
+  https://github.com/herrerafacu
 <a href="www.linkedin.com/in/herrerafacu" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
 <a href="facu.h_007@hotmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://github.com/herrerafacu" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 

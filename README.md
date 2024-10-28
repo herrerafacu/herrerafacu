@@ -44,9 +44,6 @@
     &emsp;   
 </p>
 
-
-<br><br>
-
 ## 😎 Connect with me
 <p align="left">
 <a href="www.linkedin.com/in/herrerafacu" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
